@@ -23,19 +23,6 @@ assets/
   dersler-filters.css         tarih filtresi kuralları (ders listesinden üretilmiştir)
 ```
 
-## Tasarım
-
-- Tek bir renk paleti (`assets/theme.css` içindeki CSS değişkenleri) ve tek bir yazı tipi
-  ailesi her iki sayfada da kullanılır: **Fraunces** (başlıklar), **Karla** (metin),
-  **JetBrains Mono** (etiket, zaman damgası, sayı).
-- **Karanlık mod** her sayfada sağ üsttedir. Seçim `localStorage` içinde saklanır; hiç
-  seçim yapılmadıysa işletim sisteminin tercihi izlenir.
-- Mobil uyumlu: modül arşivinde kenar çubuğu çekmeceye dönüşür, ders indeksinde ders
-  şeridi yatay kayar, tablolar kendi içinde kayar.
-- JavaScript kapalıyken de okunabilir: ders sekmeleri, tarih filtresi ve ⭐ filtresi saf
-  CSS ile çalışır; modül sayfasında tüm modüller düz sayfa olarak akar. Yalnızca serbest
-  metin arama JavaScript ister.
-- Yazdırmaya uygun stiller içerir.
 
 ## Klavye kısayolları
 
@@ -44,14 +31,6 @@ assets/
 | `/` | Arama kutusuna odaklan |
 | `Esc` | Aramayı temizle, menüleri kapat |
 
-## GitHub Pages ile yayına alma
-
-1. Depoyu GitHub'a gönderin.
-2. **Settings → Pages → Build and deployment** bölümünde kaynak olarak
-   **Deploy from a branch** ve dalın kökünü (`/`) seçin.
-3. Site `https://<kullanıcı-adı>.github.io/<depo-adı>/` adresinde yayınlanır.
-
-Yazı tipleri Google Fonts'tan yüklenir; bağlantı olmadığında sistem yazı tiplerine düşer.
 
 ## İçerik notu
 
