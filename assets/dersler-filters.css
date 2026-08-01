@@ -1,0 +1,56 @@
+/* Tarih filtresi kuralları — ders listesinden üretilmiştir. */
+/* per-date CSS filter rules (generated) */
+body:has(#date-2025-06-02:checked) main .card:not([data-date="2025-06-02"]){display:none;}
+body:has(#date-2025-06-02:checked) #dd-date summary b.ddval::after{content:"02.06.2025 · Ders 1"}
+body:has(#date-2026-01-06:checked) main .card:not([data-date="2026-01-06"]){display:none;}
+body:has(#date-2026-01-06:checked) #dd-date summary b.ddval::after{content:"06.01.2026 · Ders 2"}
+body:has(#date-2026-01-13:checked) main .card:not([data-date="2026-01-13"]){display:none;}
+body:has(#date-2026-01-13:checked) #dd-date summary b.ddval::after{content:"13.01.2026 · Ders 3"}
+body:has(#date-2026-01-20:checked) main .card:not([data-date="2026-01-20"]){display:none;}
+body:has(#date-2026-01-20:checked) #dd-date summary b.ddval::after{content:"20.01.2026 · Ders 4"}
+body:has(#date-2026-01-27:checked) main .card:not([data-date="2026-01-27"]){display:none;}
+body:has(#date-2026-01-27:checked) #dd-date summary b.ddval::after{content:"27.01.2026 · Ders 5"}
+body:has(#date-2026-02-03:checked) main .card:not([data-date="2026-02-03"]){display:none;}
+body:has(#date-2026-02-03:checked) #dd-date summary b.ddval::after{content:"03.02.2026 · Ders 6"}
+body:has(#date-2026-02-10:checked) main .card:not([data-date="2026-02-10"]){display:none;}
+body:has(#date-2026-02-10:checked) #dd-date summary b.ddval::after{content:"10.02.2026 · Ders 7"}
+body:has(#date-2026-02-17:checked) main .card:not([data-date="2026-02-17"]){display:none;}
+body:has(#date-2026-02-17:checked) #dd-date summary b.ddval::after{content:"17.02.2026 · Ders 8"}
+body:has(#date-2026-02-24:checked) main .card:not([data-date="2026-02-24"]){display:none;}
+body:has(#date-2026-02-24:checked) #dd-date summary b.ddval::after{content:"24.02.2026 · Ders 9"}
+body:has(#date-2026-03-03:checked) main .card:not([data-date="2026-03-03"]){display:none;}
+body:has(#date-2026-03-03:checked) #dd-date summary b.ddval::after{content:"03.03.2026 · Ders 10"}
+body:has(#date-2026-03-10:checked) main .card:not([data-date="2026-03-10"]){display:none;}
+body:has(#date-2026-03-10:checked) #dd-date summary b.ddval::after{content:"10.03.2026 · Ders 11–14"}
+body:has(#date-2026-03-17:checked) main .card:not([data-date="2026-03-17"]){display:none;}
+body:has(#date-2026-03-17:checked) #dd-date summary b.ddval::after{content:"17.03.2026 · Ders 15"}
+body:has(#date-2026-03-24:checked) main .card:not([data-date="2026-03-24"]){display:none;}
+body:has(#date-2026-03-24:checked) #dd-date summary b.ddval::after{content:"24.03.2026 · Ders 16"}
+body:has(#date-2026-03-31:checked) main .card:not([data-date="2026-03-31"]){display:none;}
+body:has(#date-2026-03-31:checked) #dd-date summary b.ddval::after{content:"31.03.2026 · Ders 17"}
+body:has(#date-2026-04-07:checked) main .card:not([data-date="2026-04-07"]){display:none;}
+body:has(#date-2026-04-07:checked) #dd-date summary b.ddval::after{content:"07.04.2026 · Ders 18"}
+body:has(#date-2026-04-14:checked) main .card:not([data-date="2026-04-14"]){display:none;}
+body:has(#date-2026-04-14:checked) #dd-date summary b.ddval::after{content:"14.04.2026 · Ders 19"}
+body:has(#date-2026-04-21:checked) main .card:not([data-date="2026-04-21"]){display:none;}
+body:has(#date-2026-04-21:checked) #dd-date summary b.ddval::after{content:"21.04.2026 · Ders 20"}
+body:has(#date-2026-04-28:checked) main .card:not([data-date="2026-04-28"]){display:none;}
+body:has(#date-2026-04-28:checked) #dd-date summary b.ddval::after{content:"28.04.2026 · Ders 21"}
+body:has(#date-2026-05-05:checked) main .card:not([data-date="2026-05-05"]){display:none;}
+body:has(#date-2026-05-05:checked) #dd-date summary b.ddval::after{content:"05.05.2026 · Ders 22–25"}
+body:has(#date-2026-05-12:checked) main .card:not([data-date="2026-05-12"]){display:none;}
+body:has(#date-2026-05-12:checked) #dd-date summary b.ddval::after{content:"12.05.2026 · Ders 26"}
+body:has(#date-2026-06-09:checked) main .card:not([data-date="2026-06-09"]){display:none;}
+body:has(#date-2026-06-09:checked) #dd-date summary b.ddval::after{content:"09.06.2026 · Ders 27"}
+body:has(#date-2026-06-16:checked) main .card:not([data-date="2026-06-16"]){display:none;}
+body:has(#date-2026-06-16:checked) #dd-date summary b.ddval::after{content:"16.06.2026 · Ders 28"}
+body:has(#date-2026-06-23:checked) main .card:not([data-date="2026-06-23"]){display:none;}
+body:has(#date-2026-06-23:checked) #dd-date summary b.ddval::after{content:"23.06.2026 · Ders 29"}
+body:has(#date-2026-06-30:checked) main .card:not([data-date="2026-06-30"]){display:none;}
+body:has(#date-2026-06-30:checked) #dd-date summary b.ddval::after{content:"30.06.2026 · Ders 30"}
+body:has(#date-2026-07-07:checked) main .card:not([data-date="2026-07-07"]){display:none;}
+body:has(#date-2026-07-07:checked) #dd-date summary b.ddval::after{content:"07.07.2026 · Ders 31"}
+body:has(#date-2026-07-14:checked) main .card:not([data-date="2026-07-14"]){display:none;}
+body:has(#date-2026-07-14:checked) #dd-date summary b.ddval::after{content:"14.07.2026 · Ders 32"}
+body:has(#date-2026-07-21:checked) main .card:not([data-date="2026-07-21"]){display:none;}
+body:has(#date-2026-07-21:checked) #dd-date summary b.ddval::after{content:"21.07.2026 · Ders 33"}
